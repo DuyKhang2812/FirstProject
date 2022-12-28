@@ -1,0 +1,14 @@
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: white;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    background: red;
+    text-align: center;
+    line-height: 200px;
+}
