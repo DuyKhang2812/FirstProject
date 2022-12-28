@@ -11,4 +11,6 @@ body {
     background: red;
     text-align: center;
     line-height: 200px;
+    color: blue;
+    text-transform: uppercase;
 }
